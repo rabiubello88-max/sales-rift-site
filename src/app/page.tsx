@@ -473,7 +473,7 @@ export default function Home() {
                 Phone / WhatsApp
               </p>
               <p className="mt-2 text-sm">
-                0812 425 2558 • 0806 767 7257
+                0812 425 2558 • 0806 767 7257 • 0703 607 1928
               </p>
               <p className="mt-3 text-xs text-zinc-400">
                 You can call or send a WhatsApp message for vendor details, guest
